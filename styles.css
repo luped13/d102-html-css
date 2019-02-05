@@ -1,0 +1,56 @@
+/*
+SELETOR {
+    PROPRIEDADE: VALOR;
+}
+*/
+
+
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: darkorange;
+}
+
+.nav-header a {
+    text-decoration: none;
+
+}
+
+.cor-vermelha{
+    color: red
+    font-size: 18pt;
+}
+
+#header-pesquisa{
+    color:gray;
+}
+
+textarea{
+    resize: none;
+}
+
+.formulario-contato p, .formulario-contato h3 {
+    background-color:crimson;
+    font-size: 18pt;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 15px rgba(0,0,0,0.1)
+}
+
+.negrito{
+    font-size: 20pt;
+}
+.negrito:hover {
+    font-weight: bold;]
+    
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+button {
+    cursor: pointer;
+}
